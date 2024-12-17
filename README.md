@@ -1,5 +1,5 @@
 # Hi there 👋 
-I’m @franzi-fk (she/her) ✨
+I’m Franzi ✨
 a UX/UI Designer who's currently learning to code ✨ 
 I love art, gaming and animals
 <!---
