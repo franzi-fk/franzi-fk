@@ -1,6 +1,6 @@
 # Hi there 👋 
 I’m Franzi ✨
-UX/UI Designer & Frontend Developer ✨ 
+UX/UI Engineer ✨ 
 I love art, gaming and animals
 
 ![](https://github.com/franzi-fk/franzi-fk/blob/main/capy-bucket.gif)
